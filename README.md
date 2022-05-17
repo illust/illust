@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
+
 - 🌱 I’m currently learning Front End.
 - 🤔 I’m looking for help with Javascript/CSS.
 - 😄 Pronouns: he/him
