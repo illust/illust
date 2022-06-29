@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Front End.
+- :running: I'm running man.
 - 🤔 I’m looking for help with Javascript/CSS.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: illust0130@gmail.com
