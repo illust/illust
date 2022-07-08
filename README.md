@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Front End.
+- 🌱 I’m currently learning Front End.LIFELONG LEARNER.
 - :running:   I'm running man.
 - 🤔 I’m looking for help with Javascript/CSS.
 - 😄 Pronouns: he/him
