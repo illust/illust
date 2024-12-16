@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Front End.LIFELONG LEARNER.
-- :running:   I'm walking man.
+- :walking:   I'm walking man.
 - 🤔 I’m looking for help with Javascript/CSS.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: illust0130@gmail.com
