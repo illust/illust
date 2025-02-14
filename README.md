@@ -1,24 +1,40 @@
-### Hi there 👋
+# Hi there! 👋 I'm illust
 
-<!--
-**illust/illust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front+End+Developer;Lifelong+Learner;Walking+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a passionate developer focused on Front End technologies. Always walking forward on my journey of continuous learning and growth.
 
--->
-
-
-- 🌱 I’m currently learning Front End.LIFELONG LEARNER.
-- :walking:   I'm walking man.
-- 🤔 I’m looking for help with Javascript/CSS.
+- 🌱 Currently learning and expanding my **Front End** skills
+- 🚶‍♂️ Enjoying life one step at a time as a walking enthusiast
+- 🤝 Open to collaborating on JavaScript and CSS projects
+- 📚 Lifelong learner dedicated to improving every day
 - 😄 Pronouns: he/him
-- 📫 How to reach me: illust0130@gmail.com
+
+## 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 📫 Get in Touch
+
+- Email: illust0130@gmail.com
+- GitHub: [@illust](https://github.com/illust)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=illust&show_icons=true&theme=dark" alt="illust's GitHub stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>🌟 Always learning, always growing, always walking forward! 🚶‍♂️</i>
+</p>
